@@ -26,9 +26,10 @@ Welcome to the Login Page Project! This project provides a stylish and responsiv
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/login-page.git`
+1. Clone the repository: `git clone https://github.com/Kavindu95/Responsive-Login-Using-HTML5-CSS`
 2. Navigate to the project directory: `cd login-page`
 3. Open the `index.html` file in your web browser.
+4. Host with github: 'https://kavindu95.github.io/Responsive-Login-Using-HTML5-CSS/'
 
 ## Usage
 
@@ -38,11 +39,9 @@ Welcome to the Login Page Project! This project provides a stylish and responsiv
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-*Caption for Screenshot 1*
+![Screenshot 1](images/ss.png)
+*Login with video background*
 
-![Screenshot 2](path/to/screenshot2.png)
-*Caption for Screenshot 2*
 
 ## Contributing
 
